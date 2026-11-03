@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=1" alt="Apoorv Khobragade — Full Stack Developer" width="100%" />
+<img src="assets/hero.svg?v=4" width="100%" alt="Apoorv Khobragade — Full Stack Developer" />
+
+<img src="assets/about-life.svg?v=4" width="100%" alt="About Apoorv — skills and beyond code" />
+
+<img src="assets/stack.svg?v=4" width="100%" alt="Technology stack — orbit visualization" />
+
+<img src="assets/id-dashboard.svg?v=4" width="100%" alt="Developer ID card — Apoorv Khobragade" />
+
+<img src="assets/projects.svg?v=4" width="100%" alt="Featured projects — MIRA, LUMORA, CARBON" />
+
+<img src="assets/connect.svg?v=4" width="100%" alt="Connect with Apoorv" />
 
 </div>
 
-<div align="center">
+---
 
-<img src="assets/about-life.svg?v=1" alt="About Apoorv" width="100%" />
+### Featured Repositories
 
-<img src="assets/stack.svg?v=1" alt="Technology stack" width="100%" />
+| Project | Description | Stack |
+|---|---|---|
+| **[MIRA](https://github.com/ApoorvBytes/Mira-demo)** | Full-stack imitation jewellery e-commerce with cart, wishlist, checkout & JWT auth | React · Node · Supabase |
+| **LUMORA** | *(Repository details coming soon — update this row with your link)* | — |
+| **CARBON** | Web-based CO₂e tracking using ML power estimation & system telemetry | Python · Flask · ML |
 
-<img src="assets/id-dashboard.svg?v=1" alt="Developer profile card" width="100%" />
+[Browse all repositories →](https://github.com/ApoorvBytes?tab=repositories)
 
-</div>
+---
 
-## Featured work
-
-| Project | What it does |
-|---|---|
-| **MIRA** | Jewellery e-commerce experience with product discovery, cart, wishlist and checkout integrations. |
-| **MAT — Automated Attendance** | Attendance management project focused on tracking and student workflows. |
-| **Augur** | Predictive analytics dashboard concept for demand forecasting and data-driven decisions. |
-
-<div align="center">
-
-<img src="assets/connect.svg?v=1" alt="Connect with Apoorv" width="100%" />
-
-[GitHub](https://github.com/ApoorvBytes) · [Instagram](https://instagram.com/they_callme_apoorv) · [Email](mailto:apoorvkhobragade@gmail.com)
-
-</div>
+> **Design note:** This profile uses a MIDNIGHT CRIMSON neon theme. The animated SVG sections render with CSS animations on GitHub. Each visitor's GitHub interface theme is controlled separately in Settings → Appearance.
